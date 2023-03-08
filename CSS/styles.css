@@ -1,0 +1,33 @@
+
+body{
+    background-color: #eaf6f6;
+}
+
+h1{
+    color: #66bfbf;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color: #66bfbf;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+hr{
+/*border-top: dotted 5px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;*/
+    background-color: #eaf6f6; 
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: grey;  /*can also use just color: grey; statement as well */ 
+    width:10%;
+}
+
+img:hover{
+    border-radius: 5%;
+}
+img{
+    border-radius: 75%;
+}
+
